@@ -1,0 +1,43 @@
+.myBG {
+    height: 100vh;
+    background: url('../assets/Image/bg/myke-simon-atsUqIm3wxo-unsplash.jpg');
+    background-size: cover;
+}
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px #35213a;
+    letter-spacing: 4px;
+    text-align: center;
+    color: #fd0051;
+}
+.trending {
+    height: auto;
+    background-color: #35213a;
+    background-size: cover;
+}
+.serialtv {
+    height: auto;
+    background-color: #35213a;
+    background-size: cover;
+}
+.movieImage{
+    height: 100vh;
+    background-color: #fd0051;
+    margin: 5px;
+    padding: 5px;
+    border-color: #fd0051;
+}
+.movieWrapper {
+
+}
+.titleTrending{
+    color: snow;
+}
